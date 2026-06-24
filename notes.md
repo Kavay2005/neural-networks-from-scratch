@@ -1,14 +1,21 @@
-## Day 1
+# Neural Networks From Scratch
 
-Learned:
-- MLP requires flattened images.
-- MNIST image shape = (28,28)
-- Flattened shape = (784,)
-- Batch shape = (batch_size,784)
+Goal:
+Build neural networks from first principles using NumPy only rather than using PyTOrch or Tensorflow
 
-Confusions:
-- Thought input features were neurons.
-- Realized neurons belonged to hidden layers not input layer.
+Current Stage:
+- [x] Load MNIST
+- [x] Normalize Data
+- [x] Build Linear Layer
+- [x] Build ReLU
+- [x] Build Forward Pass
+- [x] Softmax
+- [x] Cross Entropy Loss
+- [x] Backpropagation
+- [x] SGD
+- [x] Training Loop
 
-Insight:
-One neuron receives all 784 inputs and outputs one value to that input features
+Upcoming:
+- [ ] Failure Analysis
+- [ ] MNIST Classification
+- [ ] Autoencoder
