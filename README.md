@@ -9,13 +9,13 @@ Current Stage:
 - [x] Build Linear Layer
 - [x] Build ReLU
 - [x] Build Forward Pass
+- [x] Softmax
+- [x] Cross Entropy Loss
+- [x] Backpropagation
+- [x] SGD
+- [x] Training Loop
 
 Upcoming:
-- [ ] Softmax
-- [ ] Cross Entropy Loss
-- [ ] Backpropagation
-- [ ] SGD
-- [ ] Training Loop
-- [ ] MNIST Classification
 - [ ] Failure Analysis
+- [ ] MNIST Classification
 - [ ] Autoencoder
